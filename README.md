@@ -13,6 +13,12 @@ Fonts, font license agreement and a code for embedding fonts on personal website
 # SUPPORT
 You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
 
+# FOR PERSONAL USE
+All of the fonts herein are available for personal use only. For other uses, please contact warrenkwoodhouse@gmail.com with the subject as "Fonts".
+
+# FOR COMMERCIAL USE
+For other uses such as commercial use, please contact warrenkwoodhouse@gmail.com with the subject as "Fonts - Requesting Commercial Use" so we can discuss terms for commercial usages.
+
 # KEEP IN TOUCH
 * Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
 * Follow on Twitter: https://twitter.com/warrenwoodhouse
