@@ -25,9 +25,7 @@ The following websites have our fonts for use on their text generators:
 * GitHub: https://github.com/warrenwoodhouse/fonts
 * FontMeme: https://fontmeme.com/?s=%22%C3%86NIGMATE%20Productions%22
 * DaFont: https://dafont.com/a.d882
-* MyFonts: https://myfonts.com/search/Luis%20Huacuja+Aenigmate
-* Fontspring: https://fontspring.com/search?q=Aenigmate
-* Monotype: https://fonts.com/search/all-fonts?searchtext=Aenigmate&Searchin=all-fonts
+* Warren Woodhouse: https://warrenwoodhouse.fandom.com/wiki/Fonts#Fonts
 
 # SUPPORT
 You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
