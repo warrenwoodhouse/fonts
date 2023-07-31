@@ -31,10 +31,13 @@ The following websites have our fonts for use on their text generators:
 * GitHub: https://github.com/warrenwoodhouse/fonts
 * FontMeme: https://fontmeme.com/fonts/aenigmate-productions-listing
 * Search Results - FontMeme: https://fontmeme.com/?s=%22%C3%86NIGMATE%20Productions%22
-* DaFont (Outdated Link. No longer a valid account): https://dafont.com/a.d882
+* Outdated Links: https://github.com/warrenwoodhouse/fonts/labels/outdated%20links
 * Warren Woodhouse: https://warrenwoodhouse.tumblr.com/tagged/fonts
 * Tumblr: https://tumblr.com/explore/warrenwoodhousefonts
 * The Internet Archive: https://archive.org/details/@woodhousearchives?tab=uploads
+
+# MENTIONS
+To see the full list of Mentions, visit https://warrenwoodhouse.tumblr.com/mentions
 
 # SUPPORT
 You can find support at https://github.com/warrenwoodhouse/fonts/wiki/Support
