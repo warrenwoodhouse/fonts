@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Narnia Font';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/warrenwoodhouse/fonts/releases/download/v1/narniafont.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Narnia Font';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/warrenwoodhouse/fonts/releases/download/v1/narniafont.ttf) format('truetype');
+}
