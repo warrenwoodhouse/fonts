@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'Warren Woodhouse Font';
+font-style: italic,normal;
+font-weight: 400;
+src: url(https://raw.githubusercontent.com/warrenwoodhouse/fonts/releases/download/v1/warrenwoodhousefont.ttf) format('truetype');
+}
