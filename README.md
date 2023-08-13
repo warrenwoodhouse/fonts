@@ -56,6 +56,7 @@ For other uses such as commercial use, please contact warrenkwoodhouse@gmail.com
 * Contact Me: https://warrenwoodhouse.tumblr.com/ask
 
 # CHANGELOG
+* 13th August 2023: Changed the font name of backslashfont to backlashfont.
 * 31st July 2023: Updated README File with new links.
 * 21st July 2023: Updated README File with new links.
 * 24th June 2023: Updated README File with new links and information.
