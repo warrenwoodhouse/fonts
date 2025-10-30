@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'To Sharp Lingo Font';
+font-style: italic,normal;
+font-weight: 400;
+src: url(https://github.com/warrenwoodhouse/fonts/raw/refs/heads/main/tosharplingofont.ttf) format('truetype');
+}
