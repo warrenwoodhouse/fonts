@@ -2,5 +2,5 @@
 font-family: 'Warren Woodhouse Font';
 font-style: italic,normal;
 font-weight: 400;
-src: url(https://raw.githubusercontent.com/warrenwoodhouse/fonts/releases/download/v1/warrenwoodhousefont.ttf) format('truetype');
+src: url(https://github.com/warrenwoodhouse/fonts/raw/refs/heads/main/warrenwoodhouselogofont.ttf) format('truetype');
 }
