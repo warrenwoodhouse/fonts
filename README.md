@@ -12,9 +12,9 @@ License Agreement & Font License Agreement: https://warrenwoodhouse.blogspot.com
 # WHAT IS IN THE PACKAGE
 Listed below is what you'll find in the package:
 
-* Fonts: https://github.com/warrenwoodhouse/fonts/releases
-* License Agreement & Font License Agreement: https://warrenwoodhouse.blogspot.com/terms
-* Font Embed Code: https://github.com/warrenwoodhouse/fonts/wiki/Font_Embed_Code
+* [Fonts](https://github.com/warrenwoodhouse/fonts/releases)
+* [License Agreement & Font License Agreement](https://warrenwoodhouse.blogspot.com/terms)
+* [Font Embed Code](https://github.com/warrenwoodhouse/fonts/blob/main/fontembedcode.md)
 
 # INSTALLATION INSTRUCTIONS
 Fonts must be installed in the following folders:
@@ -25,35 +25,32 @@ Fonts must be installed in the following folders:
 # TEXT GENERATORS
 The following websites have our fonts for use on their text generators:
 
-* FontMeme: https://fontmeme.com/fonts/aenigmate-productions-listing
+* [FontMeme](https://fontmeme.com/fonts/aenigmate-productions-listing)
 
 # WHERE YOU CAN FIND MY FONTS
-* Official Website: https://warrenwoodhouse.blogspot.com/fonts
-* Official Blog: https://warrenwoodhouse.blogspot.com/blogs/fonts
-* GitHub: https://github.com/warrenwoodhouse/fonts
-* FontMeme: https://fontmeme.com/fonts/aenigmate-productions-listing
-* Search Results - FontMeme: https://fontmeme.com/?s=%22%C3%86nigmate%20Productions%22
-* Outdated Links: https://github.com/warrenwoodhouse/forums/labels/outdated%20links
-* Profile: https://warrenwoodhouse.blogspot.com/@warrenwoodhouse
-* Tags:
-https://warrenwoodhouse.blogspot.com/tag/aepfonts ; https://warrenwoodhouse.blogspot.com/tag/aenigmate ; https://warrenwoodhouse.blogspot.com/tag/warrenwoodhouse
-* Tumblr:
-https://tumblr.com/explore/aepfonts ; https://tumblr.com/explore/aenigmate ; https://tumblr.com/explore/warrenwoodhouse ; https://tumblr.com/explore/warrenwoodhousefonts
-* The Internet Archive: https://archive.org/details/@woodhousearchives?tab=uploads
-* Fonts4Free: https://www.fonts4free.net/fonts-by-aenigmate-productions.html
+* [Official Website](https://warrenwoodhouse.blogspot.com/fonts)
+* [Official Blog](https://warrenwoodhouse.blogspot.com/fonts/blog)
+* [GitHub](https://github.com/warrenwoodhouse/fonts)
+* [FontMeme](https://fontmeme.com/fonts/aenigmate-productions-listing)
+* [Search Results - FontMeme](https://fontmeme.com/?s=%22%C3%86nigmate%20Productions%22)
+* [Outdated Links](https://github.com/warrenwoodhouse/forums/labels/outdated%20links)
+* [Get in Touch](https://warrenwoodhouse.blogspot.com/contact)
+* [Follow on Tumblr](https://tumblr.com/explore/aepfonts)
+* [The Internet Archive](https://archive.org/details/@woodhousearchives?tab=uploads)
+* [Fonts4Free](https://www.fonts4free.net/fonts-by-aenigmate-productions.html)
 
 # BLOGS
 List of Blogs I own that are related to my fonts as well as other fonts by other designers:
 
-* Official Website: https://warrenwoodhouse.blogspot.com/fonts
-* Official Blog: https://warrenwoodhouse.blogspot.com/blogs/fonts
-* What Font is It? Blog: https://warrenwoodhouse.blogspot.com/blogs/whatfonts
+* [Official Website](https://warrenwoodhouse.blogspot.com/fonts)
+* [Official Blog](https://warrenwoodhouse.blogspot.com/fonts/blog)
+* [What Font is It? Blog](https://warrenwoodhouse.blogspot.com/whatfonts)
 
 # MENTIONS
-To see the full list of Mentions, visit https://warrenwoodhouse.blogspot.com/mentions
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/mentions) to see the full list of Mentions.
 
 # SUPPORT
-You can find support at https://github.com/warrenwoodhouse/forums/labels/fonts
+[CLICK HERE](https://github.com/warrenwoodhouse/forums/labels/fonts) to find support and report bugs.
 
 # FOR PERSONAL USE
 All of the fonts herein are available for personal use only. For other uses, please contact Warren Woodhouse Fonts using the contact form at https://warrenwoodhouse.blogspot.com/contact and at the top write "Fonts - Requesting Commercial Use" and then explain how you’re going to use the font and any other details so that we can discuss terms for your use.
@@ -62,16 +59,17 @@ All of the fonts herein are available for personal use only. For other uses, ple
 For other uses such as commercial use, please contact Warren Woodhouse Fonts using the contact form at https://warrenwoodhouse.blogspot.com/contact and at the top write "Fonts - Requesting Commercial Use" and then explain how you’re going to use the font and any other details so that we can discuss terms for commercial use.
 
 # KEEP IN TOUCH
-* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-* Official Website: https://warrenwoodhouse.blogspot.com/fonts
-* Official Blog: https://warrenwoodhouse.blogspot.com/blogs/fonts
-* Follow on Twitter / X: https://twitter.com/warrenwoodhouse
-* Profile: https://warrenwoodhouse.blogspot.com/@warrenwoodhouse
-* Learn About Famous Fonts that are used in Logos and Menu Texts: https://warrenwoodhouse.blogspot.com/blogs/whatfonts
-* More: https://warrenwoodhouse.blogspot.com/follow
-* Contact Me: https://warrenwoodhouse.blogspot.com/contact
+* [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
+* [Official Website](https://warrenwoodhouse.blogspot.com/fonts)
+* [Official Blog](https://warrenwoodhouse.blogspot.com/fonts/blog)
+* [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
+* [Subscribe and Follow My Blog](https://warrenwoodhouse.blogspot.com/follow/blog)
+* [Learn About Famous Fonts that are used in Logos and Menu Texts](https://warrenwoodhouse.blogspot.com/whatfonts)
+* [More](https://warrenwoodhouse.blogspot.com/follow)
+* [Contact Me](https://warrenwoodhouse.blogspot.com/contact)
 
 # CHANGELOG
+* 1st August 2026: Updated the README File with new links
 * 6th November 2025: Updated the README File
 * 22nd June 2024: Updated the README File
 * 19th June 2024: Migrated the outdated links forum label in the fonts repository and migrated the label along with the threads to the forums repository
